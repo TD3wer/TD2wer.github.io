@@ -1,0 +1,40 @@
+.invisivel{
+    display:none;
+  }
+  .visivel{
+    display:inline;
+  }
+  .inicial {
+    text-align: center;
+    font-size: 100px;
+    background-color: lightgrey;
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 20px;
+  }
+  .acertou {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(30, 255, 0);
+    padding: 10px;
+    margin: 20px;
+  }
+  .errou {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(255, 0, 0);
+    padding: 10px;
+    margin: 20px;
+  }
+  body{
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/11980097-fundo-de-pixel-fundo-de-conceito-de-jogos-padrao-de-sem-costura-redimensionavel-grama-vetor.jpg");
+    background-size: cover;
+  }
